@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcync",
+        "uuid": 31964212,
+        "checksum": "sw69wc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
